@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Carolina Navarro, Frontend Developer.<br>Biendenidos a mi perfil  en Github ⭐ 
+¡Hola! Soy Carolina Navarro, Frontend Developer.<br>Bienvenidos a mi perfil  en Github ⭐ 
 
 
 ## 🌐 Socials:
